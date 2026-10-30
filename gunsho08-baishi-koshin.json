@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/baishi-koshin-utaawase",
  "yomi": "ばいしないしんのうけこうしんのようたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十番）",
+  "era": "未詳",
+  "author": "禖子内親王家",
+  "desc": "六条斎院禖子内親王の家で、庚申の夜に催された十番の歌合。春夜月・帰雁・菫・蛙・躑躅・呉竹などの題で、宮の小弁・小式部・中務・武蔵・出雲・甲斐・美作ら女房が詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
